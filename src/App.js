@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello React!
+          Hello React!  Now Running in App Service and Static Web App!
         </a>
       </header>
     </div>
