@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello React!  Testing Web App Git Action Flow...
+          Hello React from Azure Web App!
         </a>
       </header>
     </div>
