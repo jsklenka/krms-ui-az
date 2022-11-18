@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello React from Azure Web App!
+          Hello React using Static Web App!
         </a>
       </header>
     </div>
