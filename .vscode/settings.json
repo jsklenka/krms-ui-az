@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/0971ecfe-e184-4caf-951f-ee7a0e8a4cee/AppServices/subscriptions/0971ecfe-e184-4caf-951f-ee7a0e8a4cee/resourceGroups/rg-krms/providers/Microsoft.Web/sites/krms-ui",
+    "appService.deploySubpath": "build"
+}
