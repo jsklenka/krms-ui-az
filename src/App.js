@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello React!  Now Running in App Service and Static Web App!
+          Hello React!  Testing Web App Git Action Flow...
         </a>
       </header>
     </div>
